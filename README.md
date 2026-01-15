@@ -184,5 +184,3 @@ source("scripts/run_automl_pipeline.R")
 **Abhyuday Parihar**
 MS Bioinformatics & Computational Biology
 Boston University
-
-Just tell me 🚀
